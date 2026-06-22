@@ -1,4 +1,4 @@
 # first-demo
 This is my first repository.
 <br>
-Auther - Nirmal Sharma
+Auther - Nirmal Sharma (NIT JSR)
